@@ -13,10 +13,12 @@ Tecnologias Utilizadas
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-[<img height="150" src="./Dragoes telas.gif">]
+
 
 **Gostaria de expressar minha gratidão por ter concluído meu primeiro projeto utilizando HTML, CSS e JavaScript. Essa jornada tem sido de grande aprendizado e desafios superados, e estou profundamente agradecido por todas as oportunidades que surgiram ao longo desse processo.**
 
 **A cada linha de código, pude perceber as inúmeras possibilidades que essas tecnologias oferecem, permitindo a criação de soluções inovadoras e funcionais**. 
 
 **Esse projeto é apenas o começo de um caminho repleto de novas descobertas e desenvolvimento contínuo. Estou animado para continuar aprimorando minhas habilidades e explorar ainda mais o potencial de cada uma dessas ferramentas.**
+
+[<img height="150" src="./Dragoes telas.gif">]
