@@ -1,11 +1,13 @@
 [<img height="100" src="./conde.webp">]
-[<img height="100" src="./imagem Balerion.gif">]
+[<img height="100" src="./vhagar.png">]
 
-Projeto Hause of The Dragons 
 
-Primeiro projeto iniciando minha aventura na area da programação, evento  "Semana do Zero ao programador contratado" Obrigado Gemeos DEV-QUEST foi meu ponto inicial nesse novo projeto de vida....viver de Tecnologia.
+<h1>Projeto Hause of The Dragons </h1> 
 
-Tecnologias Utilizadas 
+> Primeiro projeto iniciando minha aventura na area da programação, evento  "Semana do Zero ao programador contratado" Obrigado Gemeos DEV-QUEST foi meu ponto inicial nesse novo projeto de vida....viver de Tecnologia.
+
+<h2>Tecnologias Utilizadas<h2>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,4 +23,4 @@ Tecnologias Utilizadas
 
 **Esse projeto é apenas o começo de um caminho repleto de novas descobertas e desenvolvimento contínuo. Estou animado para continuar aprimorando minhas habilidades e explorar ainda mais o potencial de cada uma dessas ferramentas.**
 
-[<img height="150" src="./Dragoes telas.gif">]
+[<img height="150" src="./Dragões tela.png">]
